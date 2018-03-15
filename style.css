@@ -21,6 +21,14 @@ div.blue {
   background-color: blue;
 }
 
+div.green {
+  background-color: green;
+}
+/*
+need to find the difference between div.green and .green
+https://stackoverflow.com/questions/6489110/differences-between-div-class-class-and-class-div
+*/
+
 .invisible {
   display: none;
 }
