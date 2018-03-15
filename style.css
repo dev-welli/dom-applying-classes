@@ -29,6 +29,10 @@ need to find the difference between div.green and .green
 https://stackoverflow.com/questions/6489110/differences-between-div-class-class-and-class-div
 */
 
+div.cat{
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/3/3c/Creative-Tail-Animal-cat.svg");
+}
+
 .invisible {
   display: none;
 }
